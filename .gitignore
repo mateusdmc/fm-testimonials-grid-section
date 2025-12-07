@@ -1,0 +1,6 @@
+# Ambiente
+.vscode
+
+# Dependências
+node_modules/
+
