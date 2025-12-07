@@ -8,7 +8,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Link
 
-- Solution URL: [Live Site]()
+- Solution URL: [Live Site](https://mateusdmc.github.io/fm-testimonials-grid-section/)
 
 ## My process
 

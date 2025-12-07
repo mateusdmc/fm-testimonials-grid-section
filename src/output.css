@@ -170,6 +170,9 @@
   }
 }
 @layer utilities {
+  .static {
+    position: static;
+  }
   .right-3 {
     right: calc(var(--spacing) * 3);
   }
